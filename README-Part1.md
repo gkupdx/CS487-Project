@@ -2,7 +2,8 @@
 a. Brief description of work in Part 1:
 
 b. Which system we will be working with and why we chose it:
-  For our system, we decided to go with PostgreSQL
+
+For our system, we decided to go with PostgreSQL
   
 c. Demonstrate that we have loaded data into the system
 
