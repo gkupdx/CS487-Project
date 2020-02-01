@@ -1,7 +1,7 @@
 # CS487-Project (by David Djernaes, Grady Ku)
 a. Brief description of work in Part 1:
 
-  For implementing the sample tuples generation, we split up the coding tasks into two parts: Grady would be responsible for the all of the integer attributes of the relations, and David would be responsible for the three string attributes.
+  For implementing the sample tuples generation, we split up the coding tasks into two parts: Grady would be responsible for the all of the integer attributes of the relations, and David would be responsible for the three string attributes. After we had generated the data and written it into a .csv file, we imported it into a shared Google Sheets file.
 
 b. Which system we will be working with and why we chose it:
 
