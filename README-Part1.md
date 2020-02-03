@@ -11,6 +11,8 @@ b. Which system we will be working with and why we chose it:
   
 c. Demonstrate that we have loaded data into the system
 
+  The test set was loaded into the <PostgreSQL - db.cecs.pdx.edu> server under the database owner Djernaes. Users Tufte and Benotman were granted Select privledges. A screenshot of the uploaded test set is also included.
+  
 d. Lessons or issues we had encountered
 
   For Grady, a small challenge in the sample data generation process was getting acquainted with Python and its syntax (as he had mostly been a C++ programmer). For David there was a similar challenge in learning the details of using Python, but also in generating the strings a Pythonic way. Coming from a C/C++ background the problem-solving skillset is a little different, but I eventually was able to generate the strings in a piecemeal fashion by generating the cartesian product to produce all the combinations of the letters A,B and C and interleaving the strings of X characters in between. Likely, not the most direct solution, but was eventually successful.  
